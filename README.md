@@ -1,2 +1,5 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Tetris Game
+
+## A simple Tetris game implementation using pure Dart.
+
+This project focuses on the core game logic of Tetris, implemented in Dart.
